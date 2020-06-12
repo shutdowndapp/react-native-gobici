@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "VLC BICI",
+    "slug": "UV-VLCBICI",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "es.uv.jintao.vlcbici",
+      "publishBundlePath": "ios/blank-template/Supporting/shell-app.bundle",
+      "publishManifestPath": "ios/blank-template/Supporting/shell-app-manifest.json"
+    },
+    
+    "scheme": "exp48022380973d49e7a30dbc315782b67d",
+    "android": {
+      "package": "es.uv.jintao.vlcbici",
+      "publishBundlePath": "android/app/src/main/assets/shell-app.bundle",
+      "publishManifestPath": "android/app/src/main/assets/shell-app-manifest.json"
+    }
+  }
+}
