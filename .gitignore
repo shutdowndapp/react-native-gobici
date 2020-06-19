@@ -9,6 +9,10 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
+android/*
+ios/*
+.expo-shared/*
+.expo-source/*
 
 # macOS
 .DS_Store
