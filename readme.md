@@ -1,7 +1,7 @@
 
 >   use expo
 
-## go bicycle / valencia go bici
+## go bicycle / valencia go bike
 
 ### use navigation
 
